@@ -11,3 +11,4 @@ The project includes the following steps:
 
 
 This project aims to showcase the data analyst's proficiency in SQL and their ability to manipulate and analyze data to gain valuable insights into HR data. The project includes the SQL queries used to achieve the above steps and any visualizations or additional insights gained from the data. The project is intended to be an example of how SQL can be used for HR data analysis and a resource for anyone interested in this field.
+#HRDataAnalysis #SQLDataAnalysis #WorkBalance #AttritionRate #WorkingYears #MonthlyIncome #DataInsights
